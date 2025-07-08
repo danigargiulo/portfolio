@@ -33,5 +33,5 @@ Analiza el efecto del tratamiento hormonal con estradiol durante la pubertad en 
 
 - **GLMM** con distribución Gamma y enlace logarítmico
 - Comparaciones de medias y análisis de interacciones
-- Evaluación de supuestos con `DHARMa` y `Shapiro-Wilk`
+- Evaluación de supuestos con DHARMa y Shapiro-Wilk
 - Análisis del efecto fijo de tratamiento y sexo, y componente aleatorio de camada
