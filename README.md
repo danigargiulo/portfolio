@@ -4,20 +4,22 @@ Soy Licenciada en Ciencias Biológicas y Técnica Química, con formación en bi
 
 Proyectos Destacados
 
-- Expresión genética y comportamiento en hormigas. Análisis transcriptómico, modelado estadístico
-- (proyecto curso DSc. ML y predicciones)
-- (proyecto final biome II. Modelado estadístico)
+- [Expresión genética y comportamiento en hormigas] (./transcriptómica_comportamiento_hormigas/): Análisis transcriptómico y modelado estadístico del comportamiento de la hormiga *Linepithema humile*
+- Análisis del comportamiento en ratas: Modelado estadístico complejo del efecto del estradiol sobre el comportamiento bajo estrés en ratas.
+- Predicción de enfermedades cardiovasculares: Contrucción de un modelo predictivo mediante machine learning para estudiar la prevalencia de cardiopatías.
 
 **Tecnologías y herramientas**
 
-Lenguajes: Python, R, SQL, Bash
+**Lenguajes:**  
+Python, R, Bash, SQL
 
-Librerías: 
-Análisis y manipulación de datos: Pandas, NumPy, Scikit-learn, Statsmodels, edgeR, tidyverse
-Visualización: Matplotlib, Seaborn, Plotly, ggplot2
-Bioinformática: FastQC, STAR, DESeq2
+**Librerías:**  
+- **Python:** pandas, numpy, matplotlib, seaborn, plotly, scikit-learn, xgboost, statsmodels, imbalanced-learn
+- **R (data science):** dplyr, ggplot2, lme4, nlme, glmmTMB, car, DHARMa, performance, emmeans, sjPlot  
+  - **Bioinformática:** DESeq2, HTSFilter, Bioconductor, ErmineR, rlogTransformation  
 
-Herramientas y entornos: Jupyter Notebook, RStudio, Linkix, Conda, VS Code
+**Entornos y herramientas:**  
+RStudio, Jupyter Notebook, Git, GitHub, Linux (Ubuntu), Conda, VS Code
 
 
 
