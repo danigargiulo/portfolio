@@ -5,7 +5,7 @@ Soy Licenciada en Ciencias Biológicas y Técnica Química, con formación en bi
 Proyectos Destacados
 
 - [Expresión genética y comportamiento en hormigas](./transcriptómica_comportamiento_hormigas/): Análisis transcriptómico y modelado estadístico del comportamiento de la hormiga *Linepithema humile*
-- [Análisis del comportamiento en ratas](./modelado_estadístico_neurociencias/): Modelado estadístico complejo del efecto del estradiol sobre el comportamiento bajo estrés en ratas.
+- [Análisis del comportamiento en ratas](./modelado_estadístico_neurociencias/): Modelado estadístico complejo del efecto del estradiol sobre el comportamiento bajo estrés en ratones.
 - [Predicción de enfermedades cardiovasculares](./predicción_enfermedades/): Contrucción de un modelo predictivo mediante machine learning para estudiar la prevalencia de cardiopatías.
 
 **Tecnologías y herramientas**
